@@ -1,0 +1,1 @@
+<h2>hello I am for faq page</h2><?php /**PATH G:\wplocal\laragon\www\monir\resources\views\pages\faq.blade.php ENDPATH**/ ?>

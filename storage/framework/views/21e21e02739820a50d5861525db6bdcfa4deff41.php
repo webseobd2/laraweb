@@ -1,0 +1,1 @@
+<h2>this is our footer</h2><?php /**PATH G:\wplocal\laragon\www\monir\resources\views/pages/partials/footer.blade.php ENDPATH**/ ?>

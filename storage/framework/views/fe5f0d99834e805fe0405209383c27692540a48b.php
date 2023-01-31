@@ -1,0 +1,1 @@
+<header class="bg-green-400 p-4">Header</header><?php /**PATH G:\wplocal\laragon\www\monir\resources\views/components/mycomponent/header.blade.php ENDPATH**/ ?>

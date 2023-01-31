@@ -1,0 +1,1 @@
+<div class="bg-yellow-400 p-4">This is Sidebar</div><?php /**PATH G:\wplocal\laragon\www\monir\resources\views/components/mycomponent/sidebar.blade.php ENDPATH**/ ?>

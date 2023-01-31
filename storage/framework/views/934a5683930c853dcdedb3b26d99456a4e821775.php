@@ -1,0 +1,1 @@
+<div class="content flex-1">Content</div><?php /**PATH G:\wplocal\laragon\www\monir\resources\views/components/mycomponent/content.blade.php ENDPATH**/ ?>

@@ -1,0 +1,1 @@
+<h2>hello I am for term page</h2><?php /**PATH G:\wplocal\laragon\www\monir\resources\views\pages\terms.blade.php ENDPATH**/ ?>

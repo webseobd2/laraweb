@@ -1,0 +1,1 @@
+<h1>This is Template Header</h1><?php /**PATH G:\wplocal\laragon\www\monir\resources\views/pages/partials/header.blade.php ENDPATH**/ ?>
