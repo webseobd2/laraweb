@@ -1,0 +1,1 @@
+<h2>hello I am for term page</h2>
