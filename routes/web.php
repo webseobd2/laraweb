@@ -48,8 +48,18 @@ Route::get('/new', function () {
     return view('app');
 });
 
+Route::get('/clscomp', function () {
+    return view('app2');
+});
+
+Route::get('/slot',[studentController::class,'index']);
+
 Route::get('/', function () {
     return view('welcome');
+});
+
+Route::get('/form', function () {
+    return view('form');
 });
 
 Route::get('/myhome', function () {
