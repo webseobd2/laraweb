@@ -16,7 +16,7 @@ class studentController extends Controller
     {
         $students = Student::latest()->paginate(5);
         // dd($students);
-        return view('index', compact('students'))
+        return view('app2', compact('students'))
         ->with('i',(request()->input('page',1)-1)*5);
     }
 
@@ -89,5 +89,13 @@ class studentController extends Controller
     {
         $student->delete();
         return ('Your Student delete Successfully');
+    }
+    
+    public function testSlot(){
+        $students = [
+            "name" => "Razib Hasan",
+            "age"=>30
+        ];
+        return view('app2', $students);
     }
 }
